@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Execution started]]>
+    </line>
+    <line>
+      <![CDATA[Test Execution Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Execution Passed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45231" started-at="2023-06-30T13:06:07 IST" finished-at="2023-06-30T13:06:53 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45231" started-at="2023-06-30T13:06:07 IST" finished-at="2023-06-30T13:06:53 IST">
+      <class name="testScripts.InstallmentAsPaymentMethodTest">
+        <test-method status="PASS" signature="bsConfig()[pri:0, instance:testScripts.InstallmentAsPaymentMethodTest@5579bb86]" name="bsConfig" is-config="true" duration-ms="8" started-at="2023-06-30T13:06:07 IST" finished-at="2023-06-30T13:06:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method status="PASS" signature="bcConfig()[pri:0, instance:testScripts.InstallmentAsPaymentMethodTest@5579bb86]" name="bcConfig" is-config="true" duration-ms="4332" started-at="2023-06-30T13:06:08 IST" finished-at="2023-06-30T13:06:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method status="PASS" signature="bmConfig()[pri:0, instance:testScripts.InstallmentAsPaymentMethodTest@5579bb86]" name="bmConfig" is-config="true" duration-ms="1" started-at="2023-06-30T13:06:12 IST" finished-at="2023-06-30T13:06:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method status="PASS" signature="InstallmentAsPaymentMethodTest()[pri:0, instance:testScripts.InstallmentAsPaymentMethodTest@5579bb86]" name="InstallmentAsPaymentMethodTest" duration-ms="39852" started-at="2023-06-30T13:06:12 IST" finished-at="2023-06-30T13:06:52 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Execution Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Execution Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InstallmentAsPaymentMethodTest -->
+        <test-method status="PASS" signature="amConfig()[pri:0, instance:testScripts.InstallmentAsPaymentMethodTest@5579bb86]" name="amConfig" is-config="true" duration-ms="0" started-at="2023-06-30T13:06:52 IST" finished-at="2023-06-30T13:06:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method status="PASS" signature="acConfig()[pri:0, instance:testScripts.InstallmentAsPaymentMethodTest@5579bb86]" name="acConfig" is-config="true" duration-ms="715" started-at="2023-06-30T13:06:52 IST" finished-at="2023-06-30T13:06:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method status="PASS" signature="asConfig()[pri:0, instance:testScripts.InstallmentAsPaymentMethodTest@5579bb86]" name="asConfig" is-config="true" duration-ms="0" started-at="2023-06-30T13:06:53 IST" finished-at="2023-06-30T13:06:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- testScripts.InstallmentAsPaymentMethodTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
